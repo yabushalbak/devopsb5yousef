@@ -1,0 +1,30 @@
+
+This is actually just a text file
+For all short cuts below make command to ctrl for windows
+Copy
+MAC -> Command + C
+WINDOWS -> CTRL + C
+
+Paste
+MAC -> Command + V
+
+Select All -> Command + A
+
+Cut -> Command + X
+
+Revert Back -> Command + Z
+
+New -> Command + N
+
+Save -> Cammand + S
+
+MAC -> Screen shot short cut is 
+command + shift + 4
+
+WINDOWS screen shot -> Windows + Shift + S
+
+
+
+
+
+

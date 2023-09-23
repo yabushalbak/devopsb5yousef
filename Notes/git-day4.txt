@@ -1,0 +1,4 @@
+# My token
+# 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
+#My repository name
+# https://github.com/yabushalbak/devopsb5yousef.git
